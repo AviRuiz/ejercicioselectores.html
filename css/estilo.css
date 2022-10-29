@@ -1,0 +1,23 @@
+/* *{
+
+   background-color: rgb(0, 255, 238);
+    } */
+
+    body{
+        background-color: rgb(160, 237, 237);
+    }
+    header{
+        background-color: aquamarine;
+    }
+    img{
+        width: 25%;
+    
+    }
+    .imagenpequeña {
+        width: 25%;
+
+    }
+    h3{
+        text-align: center;
+        background-color: azure;
+    }
